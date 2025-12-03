@@ -19,11 +19,6 @@ Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or An
 ![](https://nirzak-streak-stats.vercel.app/?user=Aditya-01oct&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-01oct&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-01oct&theme=radical&no-frame=false&no-bg=false&margin-w=4)
