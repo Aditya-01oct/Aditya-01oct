@@ -1,4 +1,6 @@
 
+![logo](https://github.com/Aditya-01oct/Aditya-01oct/blob/main/Aditya%20Pic.png)
+
 # 💫 Hi 👋, I'm Aditya Yadav
 **A passionate Software Engineer**
 
