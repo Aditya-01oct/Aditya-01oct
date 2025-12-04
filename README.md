@@ -1,13 +1,13 @@
 
 ![logo](https://github.com/Aditya-01oct/Aditya-01oct/blob/main/Aditya%20Pic.png)
 
-# 💫 Hi 👋, I'm Aditya Yadav
+# 💫 Hi Everyone 👋, I'm Aditya Yadav
 **A passionate Software Engineer**
 
 Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Stock Price Prediction Using Regression and ARIMA Models
-- 🌱 **I’m currently learning:** Data Structures and Algorithms in java language
+- 🌱 **I’m currently learning:** Data Structures and Algorithms in Java language
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityashok989@gmail.com
 
