@@ -6,7 +6,7 @@
 
 Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Stock Price Prediction Using Regression and ARIMA Models
+- 🔭 **I’m currently working on:** Scam Detection Using Explainable Artificial Intelligence
 - 🌱 **I’m currently learning:** Data Structures and Algorithms in Java language
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityashok989@gmail.com
