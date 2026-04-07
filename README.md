@@ -29,6 +29,7 @@ Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or An
 ### 🔝 Top Contributed Repo
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-01oct&theme=radical)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditya-01oct?theme=dark&font=Fira%20Code)
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya-01oct&icon=0&color=0)](https://visitcount.itsvg.in)
 
