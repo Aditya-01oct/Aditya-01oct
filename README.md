@@ -2,10 +2,9 @@
 ![logo](https://github.com/Aditya-01oct/Aditya-01oct/blob/main/Aditya%20Pic.png)
 
 # 💫 Hi Everyone 👋, I'm Aditya Yadav
-**A passionate Software Engineer**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=white&width=1000&lines=Software+Engineer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)**
 
 Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Scam Detection Using Explainable Artificial Intelligence
 - 🌱 **I’m currently learning:** Data Structures and Algorithms in Java language
 - 💬 **Ask me about:** Collaboration, Tech Support
@@ -23,13 +22,15 @@ Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or An
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Aditya-01oct&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditya-01oct?theme=dark&font=Fira%20Code)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-01oct&theme=radical)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aditya-01oct?theme=dark&font=Fira%20Code)
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya-01oct&icon=0&color=0)](https://visitcount.itsvg.in)
 
