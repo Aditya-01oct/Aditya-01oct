@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **adityashok989@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Aditya-01oct&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 LeetCode Stats:
+## 🏅 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aditya-01oct?theme=dark&font=Fira%20Code)
 
 ### ✍️ Random Dev Quote
